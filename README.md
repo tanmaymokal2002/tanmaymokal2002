@@ -29,13 +29,14 @@
 
 ```yaml
 name: Tanmay Mokal
+
 located_in: Mumbai, Maharashtra
+
 education:
   [
     "Self-Taught Developer",
     "Bachelor's in Computer Engineering",
   ]
-company: Soulber
 
 fields_of_interests:
   [
@@ -46,7 +47,9 @@ fields_of_interests:
   ]
 
 currently_learning: ["MERN Stack"]
-2023 Goals: ["Creat 3 projects in MERN Stack, Complete ML Bootcamp, Solve 1 DSA Problem Daily on Leetcode"]
+
+goals_2023: ["Creat 3 projects in MERN Stack, Complete ML Bootcamp, Solve 1 DSA Problem Daily on Leetcode"]
+
 hobbies: ["Anime", "Coding", "Cinema", "Gym"]
 ```
   
